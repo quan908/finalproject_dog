@@ -1,0 +1,14 @@
+{
+  "window": {
+    "width": 1280,
+    "height": 720,
+    "title": "My Awesome Game Engine"
+  },
+  "assets": {
+    "dog_texture": "assets/dog.png",
+    "cookie_texture": "assets/cookie.png",
+    "bg_texture": "assets/bg.png",
+    "background_music": "assets/bgmusic.mp3",
+    "eat_sound": "assets/eat_sound.wav"
+  }
+}
